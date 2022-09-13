@@ -1,0 +1,27 @@
+body {
+  background-color: red;
+}
+h1 {
+  color: red;
+}
+p {
+  color: black;
+}
+
+ul.a {
+  list-style-type: circle;
+  color: yellow;
+}
+
+ul.b {
+  list-style-type: square;
+  font-family: verdana;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
